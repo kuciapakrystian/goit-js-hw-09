@@ -1,4 +1,4 @@
-kuciapakrystian.github.io/goit-js-hw-09/
+https://kuciapakrystian.github.io/goit-js-hw-09/
 
 
 ## Technologies
